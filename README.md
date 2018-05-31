@@ -27,6 +27,6 @@ Input from and output to files, such as ./d < in.txt and ./inc > in.txt supporte
 
 Support piping upto 2 levels - such as ./inc | ./d and ./inc | ./d | ./t
 
-Issues :
+Issue :
 
 For some freaking reason, editor does'nt work properly. Looks like editor has grudge against me or something.
