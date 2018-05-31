@@ -26,3 +26,7 @@ Any path added to your $PATH folder will work.
 Input from and output to files, such as ./d < in.txt and ./inc > in.txt supported. (Both can work simultaneously.)
 
 Support piping upto 2 levels - such as ./inc | ./d and ./inc | ./d | ./t
+
+Issues :
+
+For some freaking reason, editor does'nt work properly. Looks like editor has grudge against me or something.
