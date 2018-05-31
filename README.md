@@ -9,12 +9,8 @@ cd - Change directory
 
 pwd - Present Working directory
 
-mkdir
+mkdir - Make a directory (Alerts if already exists)
 
-- Make a directory (Alerts if already exists)
-
-rmdir
-
-- Remove the directory (Alerts if no such file or directory)
+rmdir - Remove the directory (Alerts if no such file or directory)
 
 ls - List contents of pwd
