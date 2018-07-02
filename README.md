@@ -30,3 +30,5 @@ Support piping upto 2 levels - such as ./inc | ./d and ./inc | ./d | ./t
 Issue :
 
 For some freaking reason, editor does'nt work properly. Looks like editor has grudge against me or something.
+
+[![HitCount](http://hits.dwyl.io/Poojadj/Shell.svg)](http://hits.dwyl.io/Poojadj/Shell)
